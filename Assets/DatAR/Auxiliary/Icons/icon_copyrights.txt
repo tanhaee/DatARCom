@@ -1,0 +1,38 @@
+## Copyright notices of icons used
+
+noun_Brain_3327559.svg
+CC-BY, Andi Nur Abdillah, https://thenounproject.com/icon/3327559/
+
+noun_circles_329547.svg
+CC-BY, Alfredo @ IconsAlfredo.com, https://thenounproject.com/icon/329547/
+
+noun_Cloud_170933.svg
+CC-BY, Fevzi.Co, https://thenounproject.com/icon/170933/
+
+noun_Cloud_170938.svg
+CC-BY, Fevzi.Co, https://thenounproject.com/icon/170938/
+
+noun_cube_600371.svg
+CC-BY, Nikita Kozin, https://thenounproject.com/icon/600371/
+
+noun_Data Flow_2710766.svg
+CC-BY, SBTS, https://thenounproject.com/icon/2710766/
+
+noun_Magnifying Glass_653836.svg
+CC-BY, Ian Shoobridge, https://thenounproject.com/icon/653836/
+
+noun_plan_232445.svg
+CC-BY, Gregor Cresnar, https://thenounproject.com/icon/232445/
+
+noun_Quote_3325161.svg
+CC-BY, The Icon Z, https://thenounproject.com/icon/3325161/
+
+noun_Settings_943929.svg
+CC-BY, Focus, https://thenounproject.com/icon/943929/
+
+noun_Sphere_846854.svg
+CC-BY, Sam Martin, https://thenounproject.com/icon/846854/
+
+chain-svgrepo-com.svg
+dust-bin-svgrepo-com.svg
+Icons by svgrepo.com, https://www.svgrepo.com/

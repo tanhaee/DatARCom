@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f1680866ff6b2408219dd213c6ec36, type: 3}
+  m_Name: SparqlConfig
+  m_EditorClassIdentifier: 
+  endpointUrl: http://www.linked-brain-data.org:8890/sparql
+  context: "{ \r\n    \"@context\": {\r\n        \"xsd\": \"http://www.w3.org/2001/XMLSchema#\",\r\n       
+    \"lbd\": \"http://www.linked-neuron-data.org/resource/\",\r\n        \"lbdo\":
+    \"http://www.linked-neuron-data.org/ongoloty/\",\r\n        \"lbdp\": \"http://www.linked-neuron-data.org/property/\",\r\n       
+    \"lbdg\": \"http://www.linked-neuron-data.org/graph/\",\r\n        \"rdf\": \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\",\r\n       
+    \"rdfs\": \"http://www.w3.org/2000/01/rdf-schema#\",\r\n        \"meshv\": \"http://id.nlm.nih.gov/mesh/vocab#\",\r\n       
+    \"mesh\": \"http://id.nlm.nih.gov/mesh/\",\r\n        \"mesh2020\": \"http://id.nlm.nih.gov/mesh/2020/\",\r\n       
+    \"mesh2019\": \"http://id.nlm.nih.gov/mesh/2019/\",\r\n        \"mesh2018\":
+    \"http://id.nlm.nih.gov/mesh/2018/\",\n        \"wd\": \"http://www.wikidata.org/entity/\",\n       
+    \"schema\": \"http://schema.org/\",\n        \"schema:description\": { \r\"@language\":
+    \"en\" },\n        \"datar\": \"https://datar.local/ontology/\",\r\n        \"datar:cooccurrences\":
+    { \"@type\": \"xsd:int\" },\n        \"datar:coordX\": { \"@type\": \"xsd:float\"
+    }\r,\n        \"datar:coordY\": { \"@type\": \"xsd:float\" }\r,\n        \"datar:coordZ\":
+    { \"@type\": \"xsd:float\" }\r,\n        \"datar:appearTimes\": {\"@type\": \"xsd:int\"}\n   
+    }\r\n}"
+  defaultSubGraph: lbdg:region2disease2

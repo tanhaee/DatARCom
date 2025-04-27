@@ -1,0 +1,2 @@
+MainPackage=C:\School\Post-thesis\datar-hololens\web\DatAR-Web\bin\x86\Debug\DatAR-Web_1.0.0.0_x86_Debug.msix
+SymbolPackage=C:\School\Post-thesis\datar-hololens\web\DatAR-Web\obj\x86\Debug\Symbols\DatAR-Web_1.0.0.0_x86_Debug.appxsym
